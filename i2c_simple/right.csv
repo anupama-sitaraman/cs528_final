@@ -1,0 +1,977 @@
+time,measure
+1713405781.046947,"b'0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.0483541,b'\x1b[0m\r\n'
+1713405781.0517938,"b'\x1b[0;32mI (353395) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.0518231,b'\x1b[0m\r\n'
+1713405781.057419,b'\x1b[0;31mE (353405) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.063118,"b'\x1b[0;32mI (353405) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.068306,b'\x1b[0m\r\n'
+1713405781.07391,"b'\x1b[0;32mI (353415) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.073938,b'\x1b[0m\r\n'
+1713405781.07985,b'\x1b[0;31mE (353425) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.085162,"b'\x1b[0;32mI (353425) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.085193,b'\x1b[0m\r\n'
+1713405781.0906649,"b'\x1b[0;32mI (353435) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.0906959,b'\x1b[0m\r\n'
+1713405781.096396,b'\x1b[0;31mE (353445) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.101978,"b'\x1b[0;32mI (353445) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.107125,b'\x1b[0m\r\n'
+1713405781.112897,"b'\x1b[0;32mI (353455) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.112936,b'\x1b[0m\r\n'
+1713405781.1184409,b'\x1b[0;31mE (353455) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.123908,"b'\x1b[0;32mI (353465) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.123945,b'\x1b[0m\r\n'
+1713405781.129823,"b'\x1b[0;32mI (353475) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.1298602,b'\x1b[0m\r\n'
+1713405781.1353338,b'\x1b[0;31mE (353475) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.140737,"b'\x1b[0;32mI (353485) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.1461802,b'\x1b[0m\r\n'
+1713405781.151736,"b'\x1b[0;32mI (353495) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.151778,b'\x1b[0m\r\n'
+1713405781.1573172,b'\x1b[0;31mE (353495) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.163024,"b'\x1b[0;32mI (353505) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.1630652,b'\x1b[0m\r\n'
+1713405781.168642,"b'\x1b[0;32mI (353515) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.168691,b'\x1b[0m\r\n'
+1713405781.17415,b'\x1b[0;31mE (353515) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.179934,"b'\x1b[0;32mI (353525) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.18506,b'\x1b[0m\r\n'
+1713405781.1906571,"b'\x1b[0;32mI (353535) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.1907048,b'\x1b[0m\r\n'
+1713405781.196453,b'\x1b[0;31mE (353535) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.201851,"b'\x1b[0;32mI (353545) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.201899,b'\x1b[0m\r\n'
+1713405781.207392,"b'\x1b[0;32mI (353555) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.20744,b'\x1b[0m\r\n'
+1713405781.2133539,b'\x1b[0;31mE (353555) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.218786,"b'\x1b[0;32mI (353565) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.2238789,b'\x1b[0m\r\n'
+1713405781.229583,"b'\x1b[0;32mI (353575) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.2296388,b'\x1b[0m\r\n'
+1713405781.23514,b'\x1b[0;31mE (353575) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.240709,"b'\x1b[0;32mI (353585) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.240777,b'\x1b[0m\r\n'
+1713405781.246686,"b'\x1b[0;32mI (353585) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.246754,b'\x1b[0m\r\n'
+1713405781.2521641,b'\x1b[0;31mE (353595) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.25772,"b'\x1b[0;32mI (353605) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.2629561,b'\x1b[0m\r\n'
+1713405781.268515,"b'\x1b[0;32mI (353605) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.2686012,b'\x1b[0m\r\n'
+1713405781.274057,b'\x1b[0;31mE (353615) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.279914,"b'\x1b[0;32mI (353625) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.280065,b'\x1b[0m\r\n'
+1713405781.285367,"b'\x1b[0;32mI (353625) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.285442,b'\x1b[0m\r\n'
+1713405781.290991,b'\x1b[0;31mE (353635) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.2970529,"b'\x1b[0;32mI (353645) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.3016808,b'\x1b[0m\r\n'
+1713405781.307379,"b'\x1b[0;32mI (353645) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.307513,b'\x1b[0m\r\n'
+1713405781.3132758,b'\x1b[0;31mE (353655) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.318961,"b'\x1b[0;32mI (353655) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.319099,b'\x1b[0m\r\n'
+1713405781.324623,"b'\x1b[0;32mI (353665) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.3247628,b'\x1b[0m\r\n'
+1713405781.330824,b'\x1b[0;31mE (353675) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.3359559,"b'\x1b[0;32mI (353675) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.340693,b'\x1b[0m\r\n'
+1713405781.3464231,"b'\x1b[0;32mI (353685) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.3465579,b'\x1b[0m\r\n'
+1713405781.3519769,b'\x1b[0;31mE (353695) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.357683,"b'\x1b[0;32mI (353695) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.357795,b'\x1b[0m\r\n'
+1713405781.363734,"b'\x1b[0;32mI (353705) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.363882,b'\x1b[0m\r\n'
+1713405781.369302,b'\x1b[0;31mE (353715) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.3748858,"b'\x1b[0;32mI (353715) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.379618,b'\x1b[0m\r\n'
+1713405781.385221,"b'\x1b[0;32mI (353725) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.3853571,b'\x1b[0m\r\n'
+1713405781.390941,b'\x1b[0;31mE (353735) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.3965309,"b'\x1b[0;32mI (353735) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.396645,b'\x1b[0m\r\n'
+1713405781.402571,"b'\x1b[0;32mI (353745) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.402709,b'\x1b[0m\r\n'
+1713405781.408109,b'\x1b[0;31mE (353755) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.414003,"b'\x1b[0;32mI (353755) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.418405,b'\x1b[0m\r\n'
+1713405781.424072,"b'\x1b[0;32mI (353765) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.424204,b'\x1b[0m\r\n'
+1713405781.429918,b'\x1b[0;31mE (353775) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.435533,"b'\x1b[0;32mI (353775) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.435698,b'\x1b[0m\r\n'
+1713405781.441237,"b'\x1b[0;32mI (353785) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.441368,b'\x1b[0m\r\n'
+1713405781.447135,b'\x1b[0;31mE (353795) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.4527948,"b'\x1b[0;32mI (353795) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.45739,b'\x1b[0m\r\n'
+1713405781.463171,"b'\x1b[0;32mI (353805) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.463308,b'\x1b[0m\r\n'
+1713405781.468968,b'\x1b[0;31mE (353805) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.474289,"b'\x1b[0;32mI (353815) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.474763,b'\x1b[0m\r\n'
+1713405781.480163,"b'\x1b[0;32mI (353825) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.480265,b'\x1b[0m\r\n'
+1713405781.486049,b'\x1b[0;31mE (353825) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.491541,"b'\x1b[0;32mI (353835) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.496299,b'\x1b[0m\r\n'
+1713405781.501685,"b'\x1b[0;32mI (353845) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.5017521,b'\x1b[0m\r\n'
+1713405781.5081038,b'\x1b[0;31mE (353845) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.5136042,"b'\x1b[0;32mI (353855) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.513749,b'\x1b[0m\r\n'
+1713405781.519134,"b'\x1b[0;32mI (353865) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.5192719,b'\x1b[0m\r\n'
+1713405781.524775,b'\x1b[0;31mE (353865) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.530603,"b'\x1b[0;32mI (353875) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.5350451,b'\x1b[0m\r\n'
+1713405781.540673,"b'\x1b[0;32mI (353885) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.540809,b'\x1b[0m\r\n'
+1713405781.546299,b'\x1b[0;31mE (353885) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.552171,"b'\x1b[0;32mI (353895) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.552304,b'\x1b[0m\r\n'
+1713405781.557872,"b'\x1b[0;32mI (353905) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.558004,b'\x1b[0m\r\n'
+1713405781.563655,b'\x1b[0;31mE (353905) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.56944,"b'\x1b[0;32mI (353915) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.573869,b'\x1b[0m\r\n'
+1713405781.579705,"b'\x1b[0;32mI (353925) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.579888,b'\x1b[0m\r\n'
+1713405781.585381,b'\x1b[0;31mE (353925) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.59096,"b'\x1b[0;32mI (353935) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.591093,b'\x1b[0m\r\n'
+1713405781.596975,"b'\x1b[0;32mI (353935) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.597106,b'\x1b[0m\r\n'
+1713405781.602658,b'\x1b[0;31mE (353945) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.6082208,"b'\x1b[0;32mI (353955) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.612898,b'\x1b[0m\r\n'
+1713405781.618813,"b'\x1b[0;32mI (353955) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.618918,b'\x1b[0m\r\n'
+1713405781.6240928,b'\x1b[0;31mE (353965) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.6297789,"b'\x1b[0;32mI (353975) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.6298509,b'\x1b[0m\r\n'
+1713405781.635743,"b'\x1b[0;32mI (353975) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.6358771,b'\x1b[0m\r\n'
+1713405781.641475,b'\x1b[0;31mE (353985) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.646933,"b'\x1b[0;32mI (353995) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.651836,b'\x1b[0m\r\n'
+1713405781.657206,"b'\x1b[0;32mI (353995) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.6572852,b'\x1b[0m\r\n'
+1713405781.66297,b'\x1b[0;31mE (354005) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.668532,"b'\x1b[0;32mI (354005) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.66859,b'\x1b[0m\r\n'
+1713405781.6739998,"b'\x1b[0;32mI (354015) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.674054,b'\x1b[0m\r\n'
+1713405781.679955,b'\x1b[0;31mE (354025) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.685409,"b'\x1b[0;32mI (354025) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.6904058,b'\x1b[0m\r\n'
+1713405781.6962109,"b'\x1b[0;32mI (354035) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.696268,b'\x1b[0m\r\n'
+1713405781.701858,b'\x1b[0;31mE (354045) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.707278,"b'\x1b[0;32mI (354045) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.7073338,b'\x1b[0m\r\n'
+1713405781.71321,"b'\x1b[0;32mI (354055) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.713265,b'\x1b[0m\r\n'
+1713405781.71882,b'\x1b[0;31mE (354065) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.725513,"b'\x1b[0;32mI (354065) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.73542,b'\x1b[0m\r\n'
+1713405781.736115,"b'\x1b[0;32mI (354075) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.736202,b'\x1b[0m\r\n'
+1713405781.740463,b'\x1b[0;31mE (354085) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.747843,"b'\x1b[0;32mI (354085) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.747948,b'\x1b[0m\r\n'
+1713405781.751924,"b'\x1b[0;32mI (354095) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.751961,b'\x1b[0m\r\n'
+1713405781.757389,b'\x1b[0;31mE (354105) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.763156,"b'\x1b[0;32mI (354105) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.768359,b'\x1b[0m\r\n'
+1713405781.7739289,"b'\x1b[0;32mI (354115) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.774015,b'\x1b[0m\r\n'
+1713405781.7798212,b'\x1b[0;31mE (354125) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.785337,"b'\x1b[0;32mI (354125) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.7854211,b'\x1b[0m\r\n'
+1713405781.790923,"b'\x1b[0;32mI (354135) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.791007,b'\x1b[0m\r\n'
+1713405781.796679,b'\x1b[0;31mE (354145) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.8019772,"b'\x1b[0;32mI (354145) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.807124,b'\x1b[0m\r\n'
+1713405781.81292,"b'\x1b[0;32mI (354155) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.812951,b'\x1b[0m\r\n'
+1713405781.818642,b'\x1b[0;31mE (354155) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.824047,"b'\x1b[0;32mI (354165) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.8241239,b'\x1b[0m\r\n'
+1713405781.830039,"b'\x1b[0;32mI (354175) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.830125,b'\x1b[0m\r\n'
+1713405781.8355641,b'\x1b[0;31mE (354175) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.841048,"b'\x1b[0;32mI (354185) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.846227,b'\x1b[0m\r\n'
+1713405781.85182,"b'\x1b[0;32mI (354195) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.851906,b'\x1b[0m\r\n'
+1713405781.857365,b'\x1b[0;31mE (354195) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.863002,"b'\x1b[0;32mI (354205) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.863042,b'\x1b[0m\r\n'
+1713405781.8684642,"b'\x1b[0;32mI (354215) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.868507,b'\x1b[0m\r\n'
+1713405781.873955,b'\x1b[0;31mE (354215) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.87972,"b'\x1b[0;32mI (354225) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.884995,b'\x1b[0m\r\n'
+1713405781.890643,"b'\x1b[0;32mI (354235) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.89073,b'\x1b[0m\r\n'
+1713405781.896252,b'\x1b[0;31mE (354235) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.9017448,"b'\x1b[0;32mI (354245) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.9018629,b'\x1b[0m\r\n'
+1713405781.907294,"b'\x1b[0;32mI (354255) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.90733,b'\x1b[0m\r\n'
+1713405781.91314,b'\x1b[0;31mE (354255) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.919113,"b'\x1b[0;32mI (354265) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.9240088,b'\x1b[0m\r\n'
+1713405781.929599,"b'\x1b[0;32mI (354275) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.929631,b'\x1b[0m\r\n'
+1713405781.934987,b'\x1b[0;31mE (354275) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.940532,"b'\x1b[0;32mI (354285) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.9405692,b'\x1b[0m\r\n'
+1713405781.946389,"b'\x1b[0;32mI (354285) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.94642,b'\x1b[0m\r\n'
+1713405781.951936,b'\x1b[0;31mE (354295) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.9574242,"b'\x1b[0;32mI (354305) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.962828,b'\x1b[0m\r\n'
+1713405781.9683409,"b'\x1b[0;32mI (354305) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.968375,b'\x1b[0m\r\n'
+1713405781.973804,b'\x1b[0;31mE (354315) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.979583,"b'\x1b[0;32mI (354325) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405781.979608,b'\x1b[0m\r\n'
+1713405781.985458,"b'\x1b[0;32mI (354325) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405781.9855292,b'\x1b[0m\r\n'
+1713405781.9910982,b'\x1b[0;31mE (354335) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405781.9967518,"b'\x1b[0;32mI (354345) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.0017438,b'\x1b[0m\r\n'
+1713405782.007261,"b'\x1b[0;32mI (354345) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.0073469,b'\x1b[0m\r\n'
+1713405782.013142,b'\x1b[0;31mE (354355) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.01861,"b'\x1b[0;32mI (354355) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.0186958,b'\x1b[0m\r\n'
+1713405782.024516,"b'\x1b[0;32mI (354365) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.024651,b'\x1b[0m\r\n'
+1713405782.030398,b'\x1b[0;31mE (354375) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.035549,"b'\x1b[0;32mI (354375) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.042188,b'\x1b[0m\r\n'
+1713405782.046348,"b'\x1b[0;32mI (354385) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.046441,b'\x1b[0m\r\n'
+1713405782.052917,b'\x1b[0;31mE (354395) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.0574899,"b'\x1b[0;32mI (354395) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.057586,b'\x1b[0m\r\n'
+1713405782.063385,"b'\x1b[0;32mI (354405) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.063485,b'\x1b[0m\r\n'
+1713405782.0689359,b'\x1b[0;31mE (354415) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.074408,"b'\x1b[0;32mI (354415) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.07969,b'\x1b[0m\r\n'
+1713405782.0853791,"b'\x1b[0;32mI (354425) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.085536,b'\x1b[0m\r\n'
+1713405782.091135,b'\x1b[0;31mE (354435) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.09695,"b'\x1b[0;32mI (354435) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.097108,b'\x1b[0m\r\n'
+1713405782.102572,"b'\x1b[0;32mI (354445) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.1027231,b'\x1b[0m\r\n'
+1713405782.1092532,b'\x1b[0;31mE (354455) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.113817,"b'\x1b[0;32mI (354455) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.118582,b'\x1b[0m\r\n'
+1713405782.123986,"b'\x1b[0;32mI (354465) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.124131,b'\x1b[0m\r\n'
+1713405782.129914,b'\x1b[0;31mE (354475) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.135513,"b'\x1b[0;32mI (354475) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.135651,b'\x1b[0m\r\n'
+1713405782.141182,"b'\x1b[0;32mI (354485) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.141313,b'\x1b[0m\r\n'
+1713405782.147106,b'\x1b[0;31mE (354495) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.152726,"b'\x1b[0;32mI (354495) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.157109,b'\x1b[0m\r\n'
+1713405782.16314,"b'\x1b[0;32mI (354505) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.163286,b'\x1b[0m\r\n'
+1713405782.168632,b'\x1b[0;31mE (354505) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.174154,"b'\x1b[0;32mI (354515) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.174253,b'\x1b[0m\r\n'
+1713405782.179935,"b'\x1b[0;32mI (354525) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.180009,b'\x1b[0m\r\n'
+1713405782.185386,b'\x1b[0;31mE (354525) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.190851,"b'\x1b[0;32mI (354535) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.196213,b'\x1b[0m\r\n'
+1713405782.201727,"b'\x1b[0;32mI (354545) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.201798,b'\x1b[0m\r\n'
+1713405782.20734,b'\x1b[0;31mE (354545) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.213233,"b'\x1b[0;32mI (354555) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.21332,b'\x1b[0m\r\n'
+1713405782.2187352,"b'\x1b[0;32mI (354565) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.218824,b'\x1b[0m\r\n'
+1713405782.224389,b'\x1b[0;31mE (354565) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.230135,"b'\x1b[0;32mI (354575) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.2350888,b'\x1b[0m\r\n'
+1713405782.240413,"b'\x1b[0;32mI (354585) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.240493,b'\x1b[0m\r\n'
+1713405782.246485,b'\x1b[0;31mE (354585) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.2521222,"b'\x1b[0;32mI (354595) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.252225,b'\x1b[0m\r\n'
+1713405782.257527,"b'\x1b[0;32mI (354605) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.257611,b'\x1b[0m\r\n'
+1713405782.2635388,b'\x1b[0;31mE (354605) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.269109,"b'\x1b[0;32mI (354615) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.273708,b'\x1b[0m\r\n'
+1713405782.2797608,"b'\x1b[0;32mI (354625) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.279899,b'\x1b[0m\r\n'
+1713405782.285494,b'\x1b[0;31mE (354625) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.290712,"b'\x1b[0;32mI (354635) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.290808,b'\x1b[0m\r\n'
+1713405782.297279,"b'\x1b[0;32mI (354635) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.2974,b'\x1b[0m\r\n'
+1713405782.3023748,b'\x1b[0;31mE (354645) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.3082502,"b'\x1b[0;32mI (354655) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.312921,b'\x1b[0m\r\n'
+1713405782.3184571,"b'\x1b[0;32mI (354655) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.318553,b'\x1b[0m\r\n'
+1713405782.324109,b'\x1b[0;31mE (354665) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.330188,"b'\x1b[0;32mI (354675) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.3305678,b'\x1b[0m\r\n'
+1713405782.335423,"b'\x1b[0;32mI (354675) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.33552,b'\x1b[0m\r\n'
+1713405782.3410702,b'\x1b[0;31mE (354685) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.347125,"b'\x1b[0;32mI (354695) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.351695,b'\x1b[0m\r\n'
+1713405782.357214,"b'\x1b[0;32mI (354695) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.3573482,b'\x1b[0m\r\n'
+1713405782.3635478,b'\x1b[0;31mE (354705) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.368665,"b'\x1b[0;32mI (354705) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.368743,b'\x1b[0m\r\n'
+1713405782.373952,"b'\x1b[0;32mI (354715) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.374016,b'\x1b[0m\r\n'
+1713405782.380662,b'\x1b[0;31mE (354725) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.385969,"b'\x1b[0;32mI (354725) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.39071,b'\x1b[0m\r\n'
+1713405782.3970969,"b'\x1b[0;32mI (354735) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.397581,b'\x1b[0m\r\n'
+1713405782.4021592,b'\x1b[0;31mE (354745) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.4077592,"b'\x1b[0;32mI (354745) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.407922,b'\x1b[0m\r\n'
+1713405782.414016,"b'\x1b[0;32mI (354755) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.414135,b'\x1b[0m\r\n'
+1713405782.419265,b'\x1b[0;31mE (354765) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.4246342,"b'\x1b[0;32mI (354765) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.429674,b'\x1b[0m\r\n'
+1713405782.435144,"b'\x1b[0;32mI (354775) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.4352589,b'\x1b[0m\r\n'
+1713405782.440608,b'\x1b[0;31mE (354785) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.447165,"b'\x1b[0;32mI (354785) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.4472792,b'\x1b[0m\r\n'
+1713405782.452239,"b'\x1b[0;32mI (354795) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.452348,b'\x1b[0m\r\n'
+1713405782.458795,b'\x1b[0;31mE (354805) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.464698,"b'\x1b[0;32mI (354805) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.46837,b'\x1b[0m\r\n'
+1713405782.473703,"b'\x1b[0;32mI (354815) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.473784,b'\x1b[0m\r\n'
+1713405782.479777,b'\x1b[0;31mE (354825) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.485444,"b'\x1b[0;32mI (354825) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.485552,b'\x1b[0m\r\n'
+1713405782.490929,"b'\x1b[0;32mI (354835) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.491028,b'\x1b[0m\r\n'
+1713405782.4971352,b'\x1b[0;31mE (354845) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.50277,"b'\x1b[0;32mI (354845) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.507162,b'\x1b[0m\r\n'
+1713405782.513085,"b'\x1b[0;32mI (354855) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.513207,b'\x1b[0m\r\n'
+1713405782.5185869,b'\x1b[0;31mE (354855) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.5238988,"b'\x1b[0;32mI (354865) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.523977,b'\x1b[0m\r\n'
+1713405782.530136,"b'\x1b[0;32mI (354875) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.530227,b'\x1b[0m\r\n'
+1713405782.535582,b'\x1b[0;31mE (354875) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.540905,"b'\x1b[0;32mI (354885) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.546396,b'\x1b[0m\r\n'
+1713405782.551703,"b'\x1b[0;32mI (354895) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.5518029,b'\x1b[0m\r\n'
+1713405782.557317,b'\x1b[0;31mE (354895) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.563788,"b'\x1b[0;32mI (354905) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.5639522,b'\x1b[0m\r\n'
+1713405782.5689511,"b'\x1b[0;32mI (354915) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.5690591,b'\x1b[0m\r\n'
+1713405782.574353,b'\x1b[0;31mE (354915) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.5808809,"b'\x1b[0;32mI (354925) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.585109,b'\x1b[0m\r\n'
+1713405782.590446,"b'\x1b[0;32mI (354935) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.590542,b'\x1b[0m\r\n'
+1713405782.597058,b'\x1b[0;31mE (354935) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.6022458,"b'\x1b[0;32mI (354945) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.602388,b'\x1b[0m\r\n'
+1713405782.607796,"b'\x1b[0;32mI (354955) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.607933,b'\x1b[0m\r\n'
+1713405782.6141078,b'\x1b[0;31mE (354955) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.619494,"b'\x1b[0;32mI (354965) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.623737,b'\x1b[0m\r\n'
+1713405782.630184,"b'\x1b[0;32mI (354975) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.630367,b'\x1b[0m\r\n'
+1713405782.635303,b'\x1b[0;31mE (354975) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.640924,"b'\x1b[0;32mI (354985) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.64106,b'\x1b[0m\r\n'
+1713405782.6472452,"b'\x1b[0;32mI (354985) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.647409,b'\x1b[0m\r\n'
+1713405782.652498,b'\x1b[0;31mE (354995) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.658116,"b'\x1b[0;32mI (355005) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.662993,b'\x1b[0m\r\n'
+1713405782.668629,"b'\x1b[0;32mI (355005) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.66876,b'\x1b[0m\r\n'
+1713405782.673929,b'\x1b[0;31mE (355015) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.6802418,"b'\x1b[0;32mI (355025) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.680567,b'\x1b[0m\r\n'
+1713405782.685768,"b'\x1b[0;32mI (355025) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.685885,b'\x1b[0m\r\n'
+1713405782.6911511,b'\x1b[0;31mE (355035) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.6972191,"b'\x1b[0;32mI (355045) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.701656,b'\x1b[0m\r\n'
+1713405782.707127,"b'\x1b[0;32mI (355045) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.707226,b'\x1b[0m\r\n'
+1713405782.713674,b'\x1b[0;31mE (355055) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.718623,"b'\x1b[0;32mI (355055) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.718709,b'\x1b[0m\r\n'
+1713405782.724162,"b'\x1b[0;32mI (355065) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.724262,b'\x1b[0m\r\n'
+1713405782.7303889,b'\x1b[0;31mE (355075) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.736233,"b'\x1b[0;32mI (355075) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.740565,b'\x1b[0m\r\n'
+1713405782.7497878,"b'\x1b[0;32mI (355085) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.749894,b'\x1b[0m\r\n'
+1713405782.7518668,b'\x1b[0;31mE (355095) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.757482,"b'\x1b[0;32mI (355095) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.75765,b'\x1b[0m\r\n'
+1713405782.763197,"b'\x1b[0;32mI (355105) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.763291,b'\x1b[0m\r\n'
+1713405782.768854,b'\x1b[0;31mE (355115) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.774741,"b'\x1b[0;32mI (355115) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.7796538,b'\x1b[0m\r\n'
+1713405782.784988,"b'\x1b[0;32mI (355125) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.7850711,b'\x1b[0m\r\n'
+1713405782.790792,b'\x1b[0;31mE (355135) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.796749,"b'\x1b[0;32mI (355135) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.7968462,b'\x1b[0m\r\n'
+1713405782.802216,"b'\x1b[0;32mI (355145) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.802316,b'\x1b[0m\r\n'
+1713405782.807673,b'\x1b[0;31mE (355155) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.814251,"b'\x1b[0;32mI (355155) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.8185642,b'\x1b[0m\r\n'
+1713405782.823921,"b'\x1b[0;32mI (355165) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.824061,b'\x1b[0m\r\n'
+1713405782.8313699,b'\x1b[0;31mE (355175) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.835264,"b'\x1b[0;32mI (355175) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.8353448,b'\x1b[0m\r\n'
+1713405782.840698,"b'\x1b[0;32mI (355185) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.840765,b'\x1b[0m\r\n'
+1713405782.8465862,b'\x1b[0;31mE (355195) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.852523,"b'\x1b[0;32mI (355195) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.857059,b'\x1b[0m\r\n'
+1713405782.863316,"b'\x1b[0;32mI (355205) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.863703,b'\x1b[0m\r\n'
+1713405782.868604,b'\x1b[0;31mE (355205) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.8744152,"b'\x1b[0;32mI (355215) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.8745651,b'\x1b[0m\r\n'
+1713405782.879853,"b'\x1b[0;32mI (355225) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.8799338,b'\x1b[0m\r\n'
+1713405782.886144,b'\x1b[0;31mE (355225) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.8914611,"b'\x1b[0;32mI (355235) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.896283,b'\x1b[0m\r\n'
+1713405782.901814,"b'\x1b[0;32mI (355245) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.901932,b'\x1b[0m\r\n'
+1713405782.9074612,b'\x1b[0;31mE (355245) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.913433,"b'\x1b[0;32mI (355255) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.913803,b'\x1b[0m\r\n'
+1713405782.91947,"b'\x1b[0;32mI (355265) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.919639,b'\x1b[0m\r\n'
+1713405782.924669,b'\x1b[0;31mE (355265) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.930898,"b'\x1b[0;32mI (355275) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.935233,b'\x1b[0m\r\n'
+1713405782.940574,"b'\x1b[0;32mI (355285) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.94066,b'\x1b[0m\r\n'
+1713405782.946531,b'\x1b[0;31mE (355285) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.9520361,"b'\x1b[0;32mI (355295) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.952148,b'\x1b[0m\r\n'
+1713405782.9573781,"b'\x1b[0;32mI (355305) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.9574568,b'\x1b[0m\r\n'
+1713405782.963728,b'\x1b[0;31mE (355305) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.9689941,"b'\x1b[0;32mI (355315) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.973574,b'\x1b[0m\r\n'
+1713405782.979756,"b'\x1b[0;32mI (355315) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.9800801,b'\x1b[0m\r\n'
+1713405782.985184,b'\x1b[0;31mE (355325) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405782.990895,"b'\x1b[0;32mI (355335) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405782.991005,b'\x1b[0m\r\n'
+1713405782.9974048,"b'\x1b[0;32mI (355335) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405782.9975529,b'\x1b[0m\r\n'
+1713405783.00219,b'\x1b[0;31mE (355345) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.007638,"b'\x1b[0;32mI (355355) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.012911,b'\x1b[0m\r\n'
+1713405783.018359,"b'\x1b[0;32mI (355355) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.0184472,b'\x1b[0m\r\n'
+1713405783.024086,b'\x1b[0;31mE (355365) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.029811,"b'\x1b[0;32mI (355375) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.0298822,b'\x1b[0m\r\n'
+1713405783.035275,"b'\x1b[0;32mI (355375) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.035357,b'\x1b[0m\r\n'
+1713405783.041106,b'\x1b[0;31mE (355385) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.0468,"b'\x1b[0;32mI (355395) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.051483,b'\x1b[0m\r\n'
+1713405783.0573509,"b'\x1b[0;32mI (355395) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.057499,b'\x1b[0m\r\n'
+1713405783.0631318,b'\x1b[0;31mE (355405) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.0687518,"b'\x1b[0;32mI (355405) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.068885,b'\x1b[0m\r\n'
+1713405783.07442,"b'\x1b[0;32mI (355415) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.074555,b'\x1b[0m\r\n'
+1713405783.080092,b'\x1b[0;31mE (355425) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.086026,"b'\x1b[0;32mI (355425) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.0904388,b'\x1b[0m\r\n'
+1713405783.0963159,"b'\x1b[0;32mI (355435) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.096451,b'\x1b[0m\r\n'
+1713405783.101878,b'\x1b[0;31mE (355445) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.1076422,"b'\x1b[0;32mI (355445) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.107778,b'\x1b[0m\r\n'
+1713405783.113512,"b'\x1b[0;32mI (355455) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.113642,b'\x1b[0m\r\n'
+1713405783.119165,b'\x1b[0;31mE (355465) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.124758,"b'\x1b[0;32mI (355465) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.129445,b'\x1b[0m\r\n'
+1713405783.1350331,"b'\x1b[0;32mI (355475) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.135168,b'\x1b[0m\r\n'
+1713405783.1408079,b'\x1b[0;31mE (355485) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.1465511,"b'\x1b[0;32mI (355485) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.146681,b'\x1b[0m\r\n'
+1713405783.152549,"b'\x1b[0;32mI (355495) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.152664,b'\x1b[0m\r\n'
+1713405783.157534,b'\x1b[0;31mE (355505) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.163319,"b'\x1b[0;32mI (355505) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.1681721,b'\x1b[0m\r\n'
+1713405783.173832,"b'\x1b[0;32mI (355515) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.1739688,b'\x1b[0m\r\n'
+1713405783.1797051,b'\x1b[0;31mE (355525) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.1853912,"b'\x1b[0;32mI (355525) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.185788,b'\x1b[0m\r\n'
+1713405783.191094,"b'\x1b[0;32mI (355535) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.191224,b'\x1b[0m\r\n'
+1713405783.197,b'\x1b[0;31mE (355545) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.2025611,"b'\x1b[0;32mI (355545) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.2070642,b'\x1b[0m\r\n'
+1713405783.212908,"b'\x1b[0;32mI (355555) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.21304,b'\x1b[0m\r\n'
+1713405783.218576,b'\x1b[0;31mE (355555) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.224223,"b'\x1b[0;32mI (355565) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.2243578,b'\x1b[0m\r\n'
+1713405783.230109,"b'\x1b[0;32mI (355575) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.230241,b'\x1b[0m\r\n'
+1713405783.235827,b'\x1b[0;31mE (355575) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.2414908,"b'\x1b[0;32mI (355585) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.24608,b'\x1b[0m\r\n'
+1713405783.2516851,"b'\x1b[0;32mI (355595) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.251798,b'\x1b[0m\r\n'
+1713405783.257347,b'\x1b[0;31mE (355595) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.263457,"b'\x1b[0;32mI (355605) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.2636092,b'\x1b[0m\r\n'
+1713405783.269129,"b'\x1b[0;32mI (355615) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.269278,b'\x1b[0m\r\n'
+1713405783.274548,b'\x1b[0;31mE (355615) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.28051,"b'\x1b[0;32mI (355625) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.2848861,b'\x1b[0m\r\n'
+1713405783.290536,"b'\x1b[0;32mI (355635) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.290695,b'\x1b[0m\r\n'
+1713405783.2963672,b'\x1b[0;31mE (355635) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.302231,"b'\x1b[0;32mI (355645) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.302378,b'\x1b[0m\r\n'
+1713405783.3076942,"b'\x1b[0;32mI (355655) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.30783,b'\x1b[0m\r\n'
+1713405783.313653,b'\x1b[0;31mE (355655) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.319198,"b'\x1b[0;32mI (355665) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.3238778,b'\x1b[0m\r\n'
+1713405783.329602,"b'\x1b[0;32mI (355665) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.3297422,b'\x1b[0m\r\n'
+1713405783.335237,b'\x1b[0;31mE (355675) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.340829,"b'\x1b[0;32mI (355685) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.340959,b'\x1b[0m\r\n'
+1713405783.3467891,"b'\x1b[0;32mI (355685) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.346926,b'\x1b[0m\r\n'
+1713405783.3525,b'\x1b[0;31mE (355695) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.35808,"b'\x1b[0;32mI (355705) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.3627698,b'\x1b[0m\r\n'
+1713405783.368339,"b'\x1b[0;32mI (355705) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.36847,b'\x1b[0m\r\n'
+1713405783.373968,b'\x1b[0;31mE (355715) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.379902,"b'\x1b[0;32mI (355725) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.380032,b'\x1b[0m\r\n'
+1713405783.3855119,"b'\x1b[0;32mI (355725) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.385642,b'\x1b[0m\r\n'
+1713405783.391241,b'\x1b[0;31mE (355735) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.397136,"b'\x1b[0;32mI (355745) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.40175,b'\x1b[0m\r\n'
+1713405783.4075038,"b'\x1b[0;32mI (355745) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.407647,b'\x1b[0m\r\n'
+1713405783.413378,b'\x1b[0;31mE (355755) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.422431,"b'\x1b[0;32mI (355755) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.422596,b'\x1b[0m\r\n'
+1713405783.4289331,"b'\x1b[0;32mI (355765) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.429033,b'\x1b[0m\r\n'
+1713405783.431144,b'\x1b[0;31mE (355775) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.4357069,"b'\x1b[0;32mI (355775) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.440424,b'\x1b[0m\r\n'
+1713405783.446063,"b'\x1b[0;32mI (355785) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.4461288,b'\x1b[0m\r\n'
+1713405783.451661,b'\x1b[0;31mE (355795) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.457302,"b'\x1b[0;32mI (355795) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.4574049,b'\x1b[0m\r\n'
+1713405783.463139,"b'\x1b[0;32mI (355805) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.463237,b'\x1b[0m\r\n'
+1713405783.469106,b'\x1b[0;31mE (355815) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.4748108,"b'\x1b[0;32mI (355815) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.4793758,b'\x1b[0m\r\n'
+1713405783.484989,"b'\x1b[0;32mI (355825) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.4851232,b'\x1b[0m\r\n'
+1713405783.490635,b'\x1b[0;31mE (355835) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.49662,"b'\x1b[0;32mI (355835) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.496758,b'\x1b[0m\r\n'
+1713405783.502309,"b'\x1b[0;32mI (355845) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.50245,b'\x1b[0m\r\n'
+1713405783.5079439,b'\x1b[0;31mE (355855) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.513918,"b'\x1b[0;32mI (355855) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.5183191,b'\x1b[0m\r\n'
+1713405783.523838,"b'\x1b[0;32mI (355865) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.523978,b'\x1b[0m\r\n'
+1713405783.529823,b'\x1b[0;31mE (355875) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.5353541,"b'\x1b[0;32mI (355875) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.535486,b'\x1b[0m\r\n'
+1713405783.541004,"b'\x1b[0;32mI (355885) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.541134,b'\x1b[0m\r\n'
+1713405783.54707,b'\x1b[0;31mE (355895) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.5525582,"b'\x1b[0;32mI (355895) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.556973,b'\x1b[0m\r\n'
+1713405783.562849,"b'\x1b[0;32mI (355905) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.562986,b'\x1b[0m\r\n'
+1713405783.568609,b'\x1b[0;31mE (355905) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.574054,"b'\x1b[0;32mI (355915) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.5741398,b'\x1b[0m\r\n'
+1713405783.587549,"b'\x1b[0;32mI (355925) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.587651,b'\x1b[0m\r\n'
+1713405783.593278,b'\x1b[0;31mE (355925) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.593911,"b'\x1b[0;32mI (355935) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.59625,b'\x1b[0m\r\n'
+1713405783.601731,"b'\x1b[0;32mI (355945) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.601829,b'\x1b[0m\r\n'
+1713405783.607223,b'\x1b[0;31mE (355945) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.613028,"b'\x1b[0;32mI (355955) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.6133142,b'\x1b[0m\r\n'
+1713405783.618861,"b'\x1b[0;32mI (355965) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.618998,b'\x1b[0m\r\n'
+1713405783.624532,b'\x1b[0;31mE (355965) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.630511,"b'\x1b[0;32mI (355975) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.634807,b'\x1b[0m\r\n'
+1713405783.640409,"b'\x1b[0;32mI (355985) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.640543,b'\x1b[0m\r\n'
+1713405783.646344,b'\x1b[0;31mE (355985) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.6519291,"b'\x1b[0;32mI (355995) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.6520588,b'\x1b[0m\r\n'
+1713405783.657652,"b'\x1b[0;32mI (356005) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.657789,b'\x1b[0m\r\n'
+1713405783.664008,b'\x1b[0;31mE (356005) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.668902,"b'\x1b[0;32mI (356015) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.673571,b'\x1b[0m\r\n'
+1713405783.679581,"b'\x1b[0;32mI (356015) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.679717,b'\x1b[0m\r\n'
+1713405783.685281,b'\x1b[0;31mE (356025) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.690785,"b'\x1b[0;32mI (356035) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.690923,b'\x1b[0m\r\n'
+1713405783.696718,"b'\x1b[0;32mI (356035) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.696822,b'\x1b[0m\r\n'
+1713405783.702419,b'\x1b[0;31mE (356045) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.7080681,"b'\x1b[0;32mI (356055) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.712755,b'\x1b[0m\r\n'
+1713405783.718347,"b'\x1b[0;32mI (356055) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.718484,b'\x1b[0m\r\n'
+1713405783.723914,b'\x1b[0;31mE (356065) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.729975,"b'\x1b[0;32mI (356075) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.730112,b'\x1b[0m\r\n'
+1713405783.7355368,"b'\x1b[0;32mI (356075) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.7356899,b'\x1b[0m\r\n'
+1713405783.7412322,b'\x1b[0;31mE (356085) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.7476768,"b'\x1b[0;32mI (356085) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.751643,b'\x1b[0m\r\n'
+1713405783.756953,"b'\x1b[0;32mI (356095) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.757025,b'\x1b[0m\r\n'
+1713405783.763152,b'\x1b[0;31mE (356105) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.768651,"b'\x1b[0;32mI (356105) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.768787,b'\x1b[0m\r\n'
+1713405783.7739542,"b'\x1b[0;32mI (356115) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.774045,b'\x1b[0m\r\n'
+1713405783.7798688,b'\x1b[0;31mE (356125) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.785811,"b'\x1b[0;32mI (356125) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.790327,b'\x1b[0m\r\n'
+1713405783.7961862,"b'\x1b[0;32mI (356135) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.79633,b'\x1b[0m\r\n'
+1713405783.801864,b'\x1b[0;31mE (356145) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.8075058,"b'\x1b[0;32mI (356145) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.807636,b'\x1b[0m\r\n'
+1713405783.813514,"b'\x1b[0;32mI (356155) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.813654,b'\x1b[0m\r\n'
+1713405783.8189492,b'\x1b[0;31mE (356165) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.8241541,"b'\x1b[0;32mI (356165) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.829204,b'\x1b[0m\r\n'
+1713405783.83493,"b'\x1b[0;32mI (356175) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.835068,b'\x1b[0m\r\n'
+1713405783.8405929,b'\x1b[0;31mE (356185) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.846563,"b'\x1b[0;32mI (356185) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.8467011,b'\x1b[0m\r\n'
+1713405783.85216,"b'\x1b[0;32mI (356195) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.852291,b'\x1b[0m\r\n'
+1713405783.858005,b'\x1b[0;31mE (356205) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.863371,"b'\x1b[0;32mI (356205) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.868146,b'\x1b[0m\r\n'
+1713405783.873718,"b'\x1b[0;32mI (356215) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.8738508,b'\x1b[0m\r\n'
+1713405783.8797078,b'\x1b[0;31mE (356225) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.885298,"b'\x1b[0;32mI (356225) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.885431,b'\x1b[0m\r\n'
+1713405783.891207,"b'\x1b[0;32mI (356235) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.891356,b'\x1b[0m\r\n'
+1713405783.897171,b'\x1b[0;31mE (356245) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.903553,"b'\x1b[0;32mI (356245) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.907012,b'\x1b[0m\r\n'
+1713405783.9127622,"b'\x1b[0;32mI (356255) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.9128478,b'\x1b[0m\r\n'
+1713405783.918624,b'\x1b[0;31mE (356255) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.9238799,"b'\x1b[0;32mI (356265) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.923983,b'\x1b[0m\r\n'
+1713405783.930068,"b'\x1b[0;32mI (356275) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.930204,b'\x1b[0m\r\n'
+1713405783.9357,b'\x1b[0;31mE (356275) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.941374,"b'\x1b[0;32mI (356285) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.945996,b'\x1b[0m\r\n'
+1713405783.951584,"b'\x1b[0;32mI (356295) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.9517179,b'\x1b[0m\r\n'
+1713405783.9573069,b'\x1b[0;31mE (356295) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.96327,"b'\x1b[0;32mI (356305) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.963403,b'\x1b[0m\r\n'
+1713405783.9688609,"b'\x1b[0;32mI (356315) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.968995,b'\x1b[0m\r\n'
+1713405783.974514,b'\x1b[0;31mE (356315) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405783.980438,"b'\x1b[0;32mI (356325) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405783.9848802,b'\x1b[0m\r\n'
+1713405783.990423,"b'\x1b[0;32mI (356335) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405783.990557,b'\x1b[0m\r\n'
+1713405783.996452,b'\x1b[0;31mE (356335) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.0018702,"b'\x1b[0;32mI (356345) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.001974,b'\x1b[0m\r\n'
+1713405784.007499,"b'\x1b[0;32mI (356355) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.007604,b'\x1b[0m\r\n'
+1713405784.0139468,b'\x1b[0;31mE (356355) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.0190332,"b'\x1b[0;32mI (356365) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.023808,b'\x1b[0m\r\n'
+1713405784.02955,"b'\x1b[0;32mI (356365) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.029685,b'\x1b[0m\r\n'
+1713405784.035201,b'\x1b[0;31mE (356375) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.040747,"b'\x1b[0;32mI (356385) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.0410361,b'\x1b[0m\r\n'
+1713405784.0467021,"b'\x1b[0;32mI (356385) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.046838,b'\x1b[0m\r\n'
+1713405784.052567,b'\x1b[0;31mE (356395) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.058296,"b'\x1b[0;32mI (356405) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.062717,b'\x1b[0m\r\n'
+1713405784.06828,"b'\x1b[0;32mI (356405) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.0684118,b'\x1b[0m\r\n'
+1713405784.073969,b'\x1b[0;31mE (356415) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.079799,"b'\x1b[0;32mI (356425) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.079929,b'\x1b[0m\r\n'
+1713405784.085509,"b'\x1b[0;32mI (356425) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.0856478,b'\x1b[0m\r\n'
+1713405784.0912452,b'\x1b[0;31mE (356435) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.097056,"b'\x1b[0;32mI (356435) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.101494,b'\x1b[0m\r\n'
+1713405784.107085,"b'\x1b[0;32mI (356445) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.107169,b'\x1b[0m\r\n'
+1713405784.113024,b'\x1b[0;31mE (356455) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.1185331,"b'\x1b[0;32mI (356455) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.1186812,b'\x1b[0m\r\n'
+1713405784.124379,"b'\x1b[0;32mI (356465) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.1245172,b'\x1b[0m\r\n'
+1713405784.130184,b'\x1b[0;31mE (356475) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.1358972,"b'\x1b[0;32mI (356475) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.140265,b'\x1b[0m\r\n'
+1713405784.146128,"b'\x1b[0;32mI (356485) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.1462631,b'\x1b[0m\r\n'
+1713405784.151798,b'\x1b[0;31mE (356495) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.157419,"b'\x1b[0;32mI (356495) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.157554,b'\x1b[0m\r\n'
+1713405784.1633558,"b'\x1b[0;32mI (356505) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.1634932,b'\x1b[0m\r\n'
+1713405784.16906,b'\x1b[0;31mE (356515) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.174784,"b'\x1b[0;32mI (356515) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.179511,b'\x1b[0m\r\n'
+1713405784.1849148,"b'\x1b[0;32mI (356525) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.185005,b'\x1b[0m\r\n'
+1713405784.1904461,b'\x1b[0;31mE (356535) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.1961842,"b'\x1b[0;32mI (356535) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.196264,b'\x1b[0m\r\n'
+1713405784.2019908,"b'\x1b[0;32mI (356545) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.2020779,b'\x1b[0m\r\n'
+1713405784.207486,b'\x1b[0;31mE (356555) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.213436,"b'\x1b[0;32mI (356555) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.2181098,b'\x1b[0m\r\n'
+1713405784.223476,"b'\x1b[0;32mI (356565) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.223541,b'\x1b[0m\r\n'
+1713405784.229675,b'\x1b[0;31mE (356575) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.2351942,"b'\x1b[0;32mI (356575) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.235326,b'\x1b[0m\r\n'
+1713405784.240971,"b'\x1b[0;32mI (356585) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.241106,b'\x1b[0m\r\n'
+1713405784.246851,b'\x1b[0;31mE (356595) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.252446,"b'\x1b[0;32mI (356595) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.2569458,b'\x1b[0m\r\n'
+1713405784.2627819,"b'\x1b[0;32mI (356605) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.262916,b'\x1b[0m\r\n'
+1713405784.268425,b'\x1b[0;31mE (356605) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.27404,"b'\x1b[0;32mI (356615) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.274177,b'\x1b[0m\r\n'
+1713405784.280027,"b'\x1b[0;32mI (356625) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.28016,b'\x1b[0m\r\n'
+1713405784.285711,b'\x1b[0;31mE (356625) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.291292,"b'\x1b[0;32mI (356635) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.2960708,b'\x1b[0m\r\n'
+1713405784.301554,"b'\x1b[0;32mI (356645) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.301686,b'\x1b[0m\r\n'
+1713405784.307243,b'\x1b[0;31mE (356645) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.3131258,"b'\x1b[0;32mI (356655) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.3132648,b'\x1b[0m\r\n'
+1713405784.318804,"b'\x1b[0;32mI (356665) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.318936,b'\x1b[0m\r\n'
+1713405784.324497,b'\x1b[0;31mE (356665) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.330358,"b'\x1b[0;32mI (356675) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.334781,b'\x1b[0m\r\n'
+1713405784.340381,"b'\x1b[0;32mI (356685) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.340514,b'\x1b[0m\r\n'
+1713405784.346327,b'\x1b[0;31mE (356685) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.351887,"b'\x1b[0;32mI (356695) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.352017,b'\x1b[0m\r\n'
+1713405784.357604,"b'\x1b[0;32mI (356705) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.357738,b'\x1b[0m\r\n'
+1713405784.3635252,b'\x1b[0;31mE (356705) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.369222,"b'\x1b[0;32mI (356715) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.373536,b'\x1b[0m\r\n'
+1713405784.379461,"b'\x1b[0;32mI (356715) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.379596,b'\x1b[0m\r\n'
+1713405784.385094,b'\x1b[0;31mE (356725) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.390712,"b'\x1b[0;32mI (356735) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.390843,b'\x1b[0m\r\n'
+1713405784.3966668,"b'\x1b[0;32mI (356735) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.3968,b'\x1b[0m\r\n'
+1713405784.402386,b'\x1b[0;31mE (356745) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.4079099,"b'\x1b[0;32mI (356755) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.4126651,b'\x1b[0m\r\n'
+1713405784.418227,"b'\x1b[0;32mI (356755) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.418357,b'\x1b[0m\r\n'
+1713405784.423933,b'\x1b[0;31mE (356765) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.4297972,"b'\x1b[0;32mI (356775) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.4299278,b'\x1b[0m\r\n'
+1713405784.435518,"b'\x1b[0;32mI (356775) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.435648,b'\x1b[0m\r\n'
+1713405784.4411242,b'\x1b[0;31mE (356785) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.446999,"b'\x1b[0;32mI (356785) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.4514182,b'\x1b[0m\r\n'
+1713405784.457109,"b'\x1b[0;32mI (356795) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.457255,b'\x1b[0m\r\n'
+1713405784.4632902,b'\x1b[0;31mE (356805) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.468703,"b'\x1b[0;32mI (356805) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.469034,b'\x1b[0m\r\n'
+1713405784.474255,"b'\x1b[0;32mI (356815) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.474394,b'\x1b[0m\r\n'
+1713405784.4801972,b'\x1b[0;31mE (356825) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.4862158,"b'\x1b[0;32mI (356825) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.490243,b'\x1b[0m\r\n'
+1713405784.496093,"b'\x1b[0;32mI (356835) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.496246,b'\x1b[0m\r\n'
+1713405784.501944,b'\x1b[0;31mE (356845) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.5074072,"b'\x1b[0;32mI (356845) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.5075562,b'\x1b[0m\r\n'
+1713405784.513265,"b'\x1b[0;32mI (356855) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.513371,b'\x1b[0m\r\n'
+1713405784.518998,b'\x1b[0;31mE (356865) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.5246332,"b'\x1b[0;32mI (356865) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.5293162,b'\x1b[0m\r\n'
+1713405784.534919,"b'\x1b[0;32mI (356875) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.535053,b'\x1b[0m\r\n'
+1713405784.540725,b'\x1b[0;31mE (356885) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.546417,"b'\x1b[0;32mI (356885) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.546558,b'\x1b[0m\r\n'
+1713405784.552222,"b'\x1b[0;32mI (356895) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.552361,b'\x1b[0m\r\n'
+1713405784.5577621,b'\x1b[0;31mE (356905) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.563644,"b'\x1b[0;32mI (356905) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.568137,b'\x1b[0m\r\n'
+1713405784.573707,"b'\x1b[0;32mI (356915) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.573843,b'\x1b[0m\r\n'
+1713405784.579587,b'\x1b[0;31mE (356925) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.585186,"b'\x1b[0;32mI (356925) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.585315,b'\x1b[0m\r\n'
+1713405784.590635,"b'\x1b[0;32mI (356935) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.59073,b'\x1b[0m\r\n'
+1713405784.5968451,b'\x1b[0;31mE (356935) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.60245,"b'\x1b[0;32mI (356945) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.606852,b'\x1b[0m\r\n'
+1713405784.612753,"b'\x1b[0;32mI (356955) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.612891,b'\x1b[0m\r\n'
+1713405784.618399,b'\x1b[0;31mE (356955) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.624015,"b'\x1b[0;32mI (356965) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.6241448,b'\x1b[0m\r\n'
+1713405784.629952,"b'\x1b[0;32mI (356975) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.630083,b'\x1b[0m\r\n'
+1713405784.6356218,b'\x1b[0;31mE (356975) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.641262,"b'\x1b[0;32mI (356985) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.6459038,b'\x1b[0m\r\n'
+1713405784.651534,"b'\x1b[0;32mI (356995) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.651663,b'\x1b[0m\r\n'
+1713405784.657291,b'\x1b[0;31mE (356995) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.663054,"b'\x1b[0;32mI (357005) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.6631858,b'\x1b[0m\r\n'
+1713405784.6687841,"b'\x1b[0;32mI (357015) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.6689181,b'\x1b[0m\r\n'
+1713405784.674465,b'\x1b[0;31mE (357015) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.680309,"b'\x1b[0;32mI (357025) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.684729,b'\x1b[0m\r\n'
+1713405784.690388,"b'\x1b[0;32mI (357035) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.690526,b'\x1b[0m\r\n'
+1713405784.696337,b'\x1b[0;31mE (357035) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.70192,"b'\x1b[0;32mI (357045) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.7020512,b'\x1b[0m\r\n'
+1713405784.707813,"b'\x1b[0;32mI (357055) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.707954,b'\x1b[0m\r\n'
+1713405784.713579,b'\x1b[0;31mE (357055) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.719192,"b'\x1b[0;32mI (357065) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.7235332,b'\x1b[0m\r\n'
+1713405784.729367,"b'\x1b[0;32mI (357065) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.729502,b'\x1b[0m\r\n'
+1713405784.735059,b'\x1b[0;31mE (357075) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.740698,"b'\x1b[0;32mI (357085) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.740833,b'\x1b[0m\r\n'
+1713405784.746735,"b'\x1b[0;32mI (357085) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.746849,b'\x1b[0m\r\n'
+1713405784.752085,b'\x1b[0;31mE (357095) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.757527,"b'\x1b[0;32mI (357105) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.762901,b'\x1b[0m\r\n'
+1713405784.768231,"b'\x1b[0;32mI (357105) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.7683651,b'\x1b[0m\r\n'
+1713405784.773677,b'\x1b[0;31mE (357115) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.779791,"b'\x1b[0;32mI (357125) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.7799292,b'\x1b[0m\r\n'
+1713405784.786101,"b'\x1b[0;32mI (357125) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.7862241,b'\x1b[0m\r\n'
+1713405784.791121,b'\x1b[0;31mE (357135) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.796896,"b'\x1b[0;32mI (357135) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.804868,b'\x1b[0m\r\n'
+1713405784.806988,"b'\x1b[0;32mI (357145) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.807067,b'\x1b[0m\r\n'
+1713405784.819245,b'\x1b[0;31mE (357155) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.819884,"b'\x1b[0;32mI (357155) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
+1713405784.819947,b'\x1b[0m\r\n'
+1713405784.8240068,"b'\x1b[0;32mI (357165) mpu6050 test: gyro_x:0.00, gyro_y:0.00, gyro_z:0.00\r\n'"
+1713405784.8240929,b'\x1b[0m\r\n'
+1713405784.829723,b'\x1b[0;31mE (357175) mpu6050 test: Failed to get accelerometer data\x1b[0m\r\n'
+1713405784.835331,"b'\x1b[0;32mI (357175) mpu6050 test: acce_x:0.00, acce_y:0.00, acce_z:0.00\r\n'"
