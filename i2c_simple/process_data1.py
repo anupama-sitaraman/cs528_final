@@ -3,6 +3,8 @@ import pandas as pd
 import scipy.signal as sp
 import scipy.fft  as fft
 import matplotlib.pyplot as plt
+import re
+
 def plot_line_acceleration(data, name):
     plt.plot(data['x'].to_numpy(), label='x axis')
     plt.plot(data['y'].to_numpy(), label='y axis')
@@ -77,7 +79,34 @@ def plot_spec(data, name, isGyro):
     plt.savefig('./'+name+'_z.png')
     plt.clf()
 
-
+def process_dataframe1(df):
+    
+    df['measure'] = df['measure'].astype(str)
+    print(df)
+    #m= measure.str.re.findall(r'[-+]?\d+')
+    #df = df[m]
+    #print(df)
+    fail_filt = df['measure'].str.contains('Failed')
+    df = df[~fail_filt]
+    df = df[df['measure'].str.contains('_y')]
+    
+    df['measure'] = df['measure'].str.replace('\\', '').str.replace('rn', '').str.replace(',', "").str.replace('\'', "")
+    df = df.join(df['measure'].str.split('test:', expand=True))
+    df = pd.DataFrame({'time': df['time'], 'one':df[1]})
+    df = df.join(df['one'].str.split(':', expand=True))
+    
+    df['x'] = df[1].str.split(' ').str[0]
+    df['y'] = df[2].str.split(' ').str[0]
+    df['z'] = df[3]
+    #df=df.iloc[3:]
+    df['x'] = df['x'].astype(float)
+    df['y'] = df['y'].astype(float)
+    df['z'] = df['z'].astype(float)
+    df_gyro = df[df[0] == ' gyro_x' ]
+    df_acc = df[df[0] ==' acce_x']
+    df_acc['magnitude'] = np.sqrt(df_acc['x']**2 + df_acc['y']**2 + df_acc['z']**2)
+    df_gyro['magnitude'] = np.sqrt(df_gyro['x']**2 + df_gyro['y']**2 + df_gyro['z']**2)
+    return df_gyro, df_acc
 def process_dataframe(csv):
     print('here')
     df = pd.DataFrame(pd.read_csv(csv))
@@ -92,13 +121,13 @@ def process_dataframe(csv):
     #df = df.dropna(subset=['one'], inplace=True)
    
     #df[1] = df[1].astype(str)
-    print(df)
+    #print(df)
     df = df.join(df['one'].str.split(':', expand=True))
     df['x'] = df[1].str.split(' ').str[0]
     df['y'] = df[2].str.split(' ').str[0]
     df['z'] = df[3]
     df=df.iloc[3:]
-    print(df)
+    #print(df)
     
     '''
     df[['z', 'junk1', 'junk']] = df[4].str.split("\\", expand=True)
@@ -127,7 +156,7 @@ def process_dataframe(csv):
     df_acc = df[df[0] ==' acce_x']
 
     df_acc['magnitude'] = np.sqrt(df_acc['x']**2 + df_acc['y']**2 + df_acc['z']**2)
-    df_gyro['magnitude'] = np.sqrt(df_gyro['x']**2 + df_gyro['y']**2 + df_gyro['z']**2)
+    #df_gyro['magnitude'] = df_gyro['x']+ df_gyro['y']+ df_gyro['z']
     #print(df)
     return df_gyro, df_acc
 
